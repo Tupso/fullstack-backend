@@ -1,6 +1,6 @@
 """ Pruebas Persistencia """
 
-import persistencia 
+import persistencia
 
 def test_guardar_pedido():
     """ Prueba general """
